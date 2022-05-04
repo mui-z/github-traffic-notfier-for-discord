@@ -1,6 +1,6 @@
 # Github Traffic Notifier for Discord
 
-Github traffic views and clones count notifier for discord.
+Github traffic views and clones notifier for discord.
 
 ## About
 
