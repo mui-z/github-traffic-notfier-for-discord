@@ -26,6 +26,6 @@ if __name__ == '__main__':
     res = requests.post(DISCORD_WEBHOOK_URL,
         headers=({'Content-Type': "application/json"}),
         data=json.dumps({
-            'content': "".join(str(content) for content in contents) + f"\ntotal views: {total_views}\ntotal_clones: {total_clones}"
+            'content': "".join(str(content) for content in contents) + f"\ntotal views: {total_views}\ntotal clones: {total_clones}"
         })
     )

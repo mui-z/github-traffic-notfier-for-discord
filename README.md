@@ -18,7 +18,7 @@ clones: 187
 
 
 total views: 490
-total_clones: 296
+total clones: 296
 ```
 
 ## Usage
