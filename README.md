@@ -54,4 +54,4 @@ python3 main.py
 ```
 
 ## LICENSE
-This Application is licensed under the MIT [License](LICENSE)
+This Application is licensed under the Apache-2.0  [License](LICENSE)
