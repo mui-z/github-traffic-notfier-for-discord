@@ -2,6 +2,25 @@
 
 Github traffic views and clones count notifier for discord.
 
+## About
+
+Github Traffic Notifier used by discord webhook.  
+This software notifies views and clones in your public repositories.
+
+```
+repo: foo
+views: 290
+clones: 109
+
+repo: bar
+views: 200
+clones: 187
+
+
+total views: 490
+total_clones: 296
+```
+
 ## Usage
 
 ## 1. Create `.env`
@@ -15,7 +34,7 @@ USER_NAME="YOUR GITHUB USERNAME"
 
 `GITHUB_TOKEN` requires only `repo: public_repo` scope.
 
-### 2. Setup Project
+## 2. Setup Project
 
 ```bash
 # create venv
