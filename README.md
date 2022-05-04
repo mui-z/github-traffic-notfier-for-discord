@@ -23,7 +23,7 @@ total_clones: 296
 
 ## Usage
 
-## 1. Create `.env`
+### 1. Create `.env`
 
 create `.env` at project root dir.
 ```.env
@@ -34,7 +34,7 @@ USER_NAME="YOUR GITHUB USERNAME"
 
 `GITHUB_TOKEN` requires only `repo: public_repo` scope.
 
-## 2. Setup Project
+### 2. Setup Project
 
 ```bash
 # create venv
