@@ -53,7 +53,7 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
-If you run on Heroku, you can use Heroku Scheduler in this repository.  
+If you run on Heroku, you can use Heroku Scheduler.  
 You can configure job `python main.py` to it and run this script.  
 You don't need Procfile.
 
