@@ -53,5 +53,9 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
+If you run on Heroku, you can use `Procfile` in this repository.  
+I recommend that using Heroku Scheduler.
+
 ## LICENSE
 This Application is licensed under the Apache-2.0  [License](LICENSE)
+
